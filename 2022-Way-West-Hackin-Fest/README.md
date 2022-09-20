@@ -5,5 +5,6 @@
 Abusing MS SQL using SQLRecon
 
 ## Presentation Material
+- [Videos](https://vimeo.com/showcase/9606366/video/728191206)
 - [Slides](https://www.slideshare.net/SanjivKawa/abusing-ms-sql-using-sqlrecon)
 - [Tool](https://github.com/skahwah/SQLRecon)
